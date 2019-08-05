@@ -1,4 +1,4 @@
-# phonebook
+# Phonebook
 A mini phone directory application, which has the functionalities to add a subscriber, delete a subscriber and 
 view the list of all the subscribers in the application.
 
